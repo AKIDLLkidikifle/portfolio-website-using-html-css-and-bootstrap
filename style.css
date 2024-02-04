@@ -1,0 +1,58 @@
+.masthead{
+     padding-top: 250px;
+     padding-bottom: 250px;
+}
+
+header.masthead {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("./assets/img/bg-masthead.jpg");
+  }
+
+header.masthead h1, header.masthead .h1 {
+    font-size: 5rem;
+}
+
+header.masthead  p{
+    font-size:  1.5rem;
+}
+
+
+.kidi-img{
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.page-section {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.album .show{
+    border-style: none;
+    background-color: #ff8f70;
+    padding: .7rem;
+    width: 12rem;
+    border-radius: 1.5rem;
+    color: whitesmoke;
+}
+
+.album{
+    background-color: #C7C8CC;
+}
+
+.album .view-button{
+    margin: auto;
+    
+}
+
+.album .card:hover{
+    background-color: #474646;
+    transform: scale(1.04);
+}
+
+.album .card{
+    border-radius: 2rem;
+}
+
+
+
